@@ -1,2 +1,2 @@
-# Myrlin/Mita App - Prescription and Medical Record Digitisation
+# Prescription and Medical Record Digitisation
 
